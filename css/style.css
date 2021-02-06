@@ -1,0 +1,11 @@
+
+header{    
+    background-position: center center;
+    height: 400px;
+    background-image: url(../img/festekek-min.jpg);
+}
+
+
+.navbar{
+    background-color: rgba(0, 0, 200, 1);
+}
