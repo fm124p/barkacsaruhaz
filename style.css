@@ -18,3 +18,9 @@ header{
 .card img{
     width: 200px;
 }
+.szerszam{
+    background-color: cornflowerblue;
+}
+.szerszam .row{
+        border-top: 2px solid rgb(61, 211, 191);
+} 
